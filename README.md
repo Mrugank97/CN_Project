@@ -34,9 +34,3 @@ It also includes theoretical figures for the proposed extended evaluation:
 ## References
 
 - Original paper: Q. Cai, S. Chaudhary, M. Vuppalapati, J. Hwang, and R. Agarwal, "Understanding Host Network Stack Overheads," in Proceedings of the 2021 ACM SIGCOMM Conference, 2021, pp. 65–77.
-- Original repository: https://github.com/Terabit-Ethernet/Understanding-network-stack-overheads-SIGCOMM-2021
-
-## Acknowledgments
-
-- The authors of the original paper for their valuable research
-- The maintainers of the original repository for making their code available
